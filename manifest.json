@@ -1,0 +1,17 @@
+{
+	"name": "Sea Wolf Designs",
+	"short_name": "Sea Wolf",
+	"lang": "es-ES",
+	"start_url": "./index.html",
+	"display": "standalone",
+	"background_color": "#000000",
+	"theme_color": "#000000",
+	"icons": [
+		{
+			"src": "./iconos/maskable_icon.png",
+			"sizes": "364x364",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	]
+}
